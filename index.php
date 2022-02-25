@@ -5,6 +5,10 @@
  </head> 
 <body background= "webpg bg.jpg">
 <center> 
+ <br> 
+ <br> 
+ <br> 
+ <br> 
  <h1><font color="white" face="Calibri"> Digital Creative Journal </h1></font> 
  <br> 
  <br> 
