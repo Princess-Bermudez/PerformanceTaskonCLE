@@ -13,7 +13,7 @@
  <br> 
  <br> 
  <a href="Third Quarter Performance Task.docx"> 
-  Click here to see "Third Quarter Performance Task" Document
+  Click here to download "Third Quarter Performance Task" Document
  </a> 
  </html> 
  </body> 
