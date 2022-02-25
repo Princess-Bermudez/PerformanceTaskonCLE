@@ -5,7 +5,7 @@
  </head> 
 <body background= "webpg bg.jpg">
 <center> 
- <h2><font color="white" face="Calibri"> Digital Creative Journal </h2></font> 
+ <h1><font color="white" face="Calibri"> Digital Creative Journal </h1></font> 
  <br> 
  <br> 
  <a href="Third Performace Task.docx"> 
