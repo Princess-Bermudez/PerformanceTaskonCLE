@@ -12,7 +12,7 @@
  <h1><font face="Calibri"> Digital Creative Journal </h1></font> 
  <br> 
  <br> 
- <a href="Third Quarter Performace Task.docx"> 
+ <a href="Third Quarter Performance Task.docx"> 
   Click here to see "Third Quarter Performance Task" Document
  </a> 
  </html> 
